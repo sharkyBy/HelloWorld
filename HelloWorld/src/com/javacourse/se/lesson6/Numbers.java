@@ -3,6 +3,7 @@ package com.javacourse.se.lesson6;
 public class Numbers {
     //x+3=5
     //Integer variable type
+    //Примитиыные типы данных (int, byte, str)
     static byte a = 126;    //2^8=256                                      (from -128 to 127)
     static short b = 32_000;   //2^16=65.538                                  (from -32.768 to 32.657)
     static int c = 2_000_111_222;     //2^32=4.294.967.296                           (from -2.147.483.648 to 2.147.483.647)
@@ -18,6 +19,9 @@ public class Numbers {
     //Logical data type
     static boolean h = true;    //8 bit (in arrow) and 32bit (is not arrow)
 
+
+
+
     public static void main(String[] args) {
         System.out.println(a);
         System.out.println(b);
@@ -27,6 +31,7 @@ public class Numbers {
         System.out.println(f);
         System.out.println(g);
         System.out.println(h);
+
     }
 
 

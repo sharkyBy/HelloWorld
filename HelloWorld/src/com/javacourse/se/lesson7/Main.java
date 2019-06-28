@@ -1,6 +1,4 @@
-package com.javacourse.se.lesson5;
-
-import com.javacourse.se.lesson7.Bus;
+package com.javacourse.se.lesson7;
 
 public class Main {
     // The main method to start the execution of the entire program.
@@ -19,15 +17,15 @@ public class Main {
         secondBus=new Bus();*/
 
         //Second option to declare an object and assign a value to a variable
-        Bus ourBus=new Bus();
-        Bus firstBus=new Bus();
-        Bus secondBus=new Bus();
+        Bus ourBus = new Bus();
+        Bus firstBus = new Bus();
+        Bus secondBus = new Bus();
 
         //First option
         //Assign a value to a variable 'color' of the class 'Bus' for objects ourBus, firstBus, secondBus
-        ourBus.color="Green";
-        firstBus.color="Red";
-        secondBus.color="Gray";
+        ourBus.color = "Green";
+        firstBus.color = "Red";
+        secondBus.color = "Gray";
 
         //Print the specified 'color' method 'showColor' of the class 'Bus'
         ourBus.showColor();
@@ -36,9 +34,9 @@ public class Main {
 
         //Second option
         //Assign a value to a variable 'model' of the class 'Bus' for objects ourBus, firstBus, secondBus
-        ourBus.model="Mercedes";
-        firstBus.model="Man";
-        secondBus.model="Neoplan";
+        ourBus.model = "Mercedes";
+        firstBus.model = "Man";
+        secondBus.model = "Neoplan";
 
         //Print the specified 'model' method 'showModel' of the class 'Bus'
         ourBus.showModel();

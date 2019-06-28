@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="954f0b5d-3e7b-414d-915e-79f3d9199bf2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/javacourse/se/lesson5/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/javacourse/se/lesson6/Numbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson6/Numbers.java" afterDir="false" />
+    <list default="true" id="954f0b5d-3e7b-414d-915e-79f3d9199bf2" name="Default Changelist" comment="Lesson5 and lesson6 from chanel &quot;follow the white rabbit&quot;">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson7/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson8/References.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/javacourse/se/lesson5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/javacourse/se/lesson5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/javacourse/se/lesson6/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/javacourse/se/lesson6/Numbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacourse/se/lesson5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javacourse/se/lesson6/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javacourse/se/lesson6/Numbers.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,24 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson5/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#204#205#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson6/Numbers.java">
+        <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson8/References.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="384">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -62,15 +49,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/com/javacourse/se/lesson7/Bus.java" />
+        <option value="$PROJECT_DIR$/src/com/javacourse/se/lesson7/Main.java" />
         <option value="$PROJECT_DIR$/src/com/javacourse/se/lesson5/Main.java" />
         <option value="$PROJECT_DIR$/src/com/javacourse/se/lesson6/Numbers.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/com/javacourse/se/lesson8/References.java" />
       </list>
     </option>
   </component>
@@ -104,13 +87,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="se" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="se" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson6" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -137,7 +113,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Numbers">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javacourse.se.lesson7.Main" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javacourse.se.lesson7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javacourse.se.lesson5.Main" />
       <module name="HelloWorld" />
@@ -166,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Numbers" />
       </list>
     </recent_temporary>
   </component>
@@ -182,11 +171,18 @@
       <option name="presentableId" value="Default" />
       <updated>1561714867261</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson5 and lesson6 from chanel &quot;follow the white rabbit&quot;">
+      <created>1561722852054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561722852055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="20" width="1260" height="956" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -196,9 +192,9 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958678" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3293556" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3293556" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5008264" side_tool="true" weight="0.3293556" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49917355" weight="0.3293556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293556" />
@@ -211,27 +207,76 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32975206" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson5 and lesson6 from chanel &quot;follow the white rabbit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson5 and lesson6 from chanel &quot;follow the white rabbit&quot;" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$Main.ic" NAME="Main Coverage Results" MODIFIED="1561729372923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javacourse.se.lesson5.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="400">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson7/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="118" selection-start-line="19" selection-start-column="118" selection-end-line="19" selection-end-column="118" />
           <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson7/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson6/Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="32" column="1" lean-forward="true" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="320">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.3/lib/src.zip!/java.base/java/lang/Byte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="356" column="18" selection-start-line="356" selection-start-column="18" selection-end-line="356" selection-end-column="18" />
+          <folding>
+            <element signature="e#12776#12777#0" expanded="true" />
+            <element signature="e#12809#12810#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javacourse/se/lesson8/References.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
